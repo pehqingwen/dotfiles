@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pehqingwen@gmail.com
+	name = QingWen Peh
